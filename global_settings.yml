@@ -10,4 +10,4 @@ overrides:
     "tableau.pgwire.authentication": "oauth"
     "tableau.connector.type": "atscale_pgwire"
     "tableau.pgwire.client.protocol": "atscale_pgwire"
-    "auth.ntlm.enabled": "true"
+
